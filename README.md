@@ -1,2 +1,2 @@
-# moezipfR
+# moezipfR (1.0.2)
 Statistical utilities for the analysis of data by means of the Marshall-Olkin Extended Zipf distribution are presented. The distribution is a two-parameter extension of the widely used Zipf model. By plotting the probabilities in log-log scale, this two-parameter extension allows a concave as well as a convex behavior of the function at the beginning of the distribution, maintaining the linearity, associated to the Zipf model, in the tail.
